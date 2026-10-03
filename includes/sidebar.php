@@ -29,11 +29,6 @@ RWSMS
 </a>
 
 
-<a href="gallon_inventory.php">
-🟢 Gallon Inventory
-</a>
-
-
 <a href="expenses.php">
 📉 Expenses
 </a>
